@@ -1,0 +1,35 @@
+/* styles.css */
+.navhead {
+    margin: 0;
+    width: 100%;
+    background: linear-gradient(90deg, #4e54c8, #8f94fb);
+    color: white;
+}
+
+    
+
+.myphoto{
+  width:75px;
+  height:75px;
+  border-radius: 50%;
+}
+.navhead .nav-link {
+    color: white;
+}
+.navhead .nav-link.active {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.navhead {
+  
+  color: white;
+}
+
+.header{
+    margin-top: 0;
+    background: linear-gradient(90deg, #4e54c8, #8f94fb);
+
+
+}
+
+
+
